@@ -2,7 +2,7 @@
 
 A bunch of useful Monkey / Blitzmax IDE's and stuff, archived here before it inevitably gets taken down in 2 years time since it looks like LemonByte's has turned into a generic marketer #69420 from an ex-developer.  
 **RIP**  
-![BLIde](https://i.imgur.com/vhN6nI8.png)
+![BLIde](https://i.imgur.com/vhN6nI8.png)  
 Official Source link: [https://lemonbytes.com/legacy/](https://lemonbytes.com/legacy/ "https://lemonbytes.com/legacy/")
 # Contents
 Archive contains these:  
